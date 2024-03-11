@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamenParcial1MendozaReyesAngelEmanuel</string>
+    <string name="Titulo">Examen Parcial 1 Mendoza Reyes Angel Emanuel</string>
+    <string name="folio">Ingrese folio</string>
+    <string name="marca">Ingrese marca</string>
+    <string name="modelo">Ingrese modelo</string>
+    <string name="tipotransmision">Ingrese el tipo de transmision</string>
+    <string name="plazo">Ingrese el plazo</string>
+    <string name="registrar">Registrar</string>
+    <string name="cotizar">Cotizar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="mostrar">Mensaje: </string>
+</resources>
